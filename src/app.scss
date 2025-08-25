@@ -1,0 +1,188 @@
+.main-photo {
+    background-size: cover;
+    text-align: center;
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.container {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .Foreword-date {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .names {
+            font-size: 9vw;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-bottom: 50px;
+        }
+
+        .line {
+            margin-bottom: 30px;
+            width: 25vw;
+            height: 1px;
+            background-color: gray;
+            border-radius: 30%;
+        }
+
+        .Foreword {
+            text-align: center;
+
+            .guestes {
+                font-size: 6vw;
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+
+            .welcomantion {
+                text-align: center;
+                font-size: 4vw;
+                margin-bottom: 30px;
+            }
+
+            .date {
+                font-size: 6vw;
+                font-weight: bold;
+                text-align: center;
+                margin-bottom: 20px;
+                display: flex;
+                flex-direction: column;
+                gap: 30px;
+            }
+
+            .timeBoard {
+                padding-bottom: 30px;
+                border-bottom: 1px solid gray;
+                display: flex;
+                justify-content: center;
+
+                .number {
+                    font-size: 4vw;
+                    font-weight: bold;
+                    text-align: center;
+                }
+
+                .time {
+                    padding: 10px;
+                    border-right: 1px solid gray;
+                }
+
+                :nth-child(4) {
+                    border-right: 0px;
+                }
+            }
+
+            .dayPlan {
+                border-bottom: 1px solid gray;
+                margin-bottom: 20px;
+                padding-top: 20px;
+                padding-bottom: 20px;
+
+                .dayPlanH1 {
+                    font-size: 6vw;
+                    font-weight: bold;
+                    text-align: center;
+                    margin-bottom: 20px;
+                }
+
+                .plan {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+
+                    .planItem {
+                        padding-top: 20px;
+                        padding-bottom: 20px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                        width: 70%;
+
+                        .time {
+                            font-size: 4vw;
+                            font-weight: bold;
+                            text-align: center;
+                        }
+
+                        img {
+                            width: 8vw;
+                            margin-right: 20px;
+                            margin-left: 20px;
+                        }
+
+                        .text {
+                            font-size: 5vw;
+                            font-weight: bold;
+                            text-align: center;
+                        }
+                    }
+                }
+            }
+
+            .mapSubtitle {
+                border-bottom: 1px solid gray;
+                padding-bottom: 20px;
+            }
+
+            .pleaces {
+                padding-top: 20px;
+
+                img {
+                    width: 100%;
+                    height: auto;
+                    margin-bottom: 20px;
+                }
+
+
+                a{
+                    padding: 10px;
+                    width: 120px;
+                    height: 40px;
+                    border: 1px solid gray;
+                    border-radius: 20px;
+                    size: 1px;
+                    text-decoration: none;
+                    color: black;
+                }
+
+                .name {
+                    padding-bottom: 20px;
+                    font-size: 6vw;
+                    font-weight: bold;
+                    text-align: center;
+                }
+
+                .church {
+                    padding-bottom: 20px;
+                }
+            }
+
+            .endWord {
+                font-size: 6vw;
+                font-weight: bold;
+                text-align: center;
+                margin-top: 40px;
+                margin-bottom: 40px;
+            }
+
+            .lastPhoto {
+                width: 100vw;
+                height: auto;
+            }
+        }
+    }
+}
