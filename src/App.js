@@ -83,7 +83,7 @@ function App() {
                   <div className="text">Փեսայի տուն</div>
                 </div>
                 <div className="planItem">
-                  <div className="time">18:00</div>
+                  <div className="time">17:30</div>
                   <img src={logo3} alt="logo" />
                   <div>
                     <div className="text">Հարսանյաց հանդես</div>
