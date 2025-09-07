@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.05880e57.css",
-    "main.js": "/static/js/main.248e8da5.js",
+    "main.js": "/static/js/main.a231cb6c.js",
     "static/media/photo1.png": "/static/media/photo1.33249438b85d860fc04a.png",
     "static/media/photo3.png": "/static/media/photo3.2bb85953627086fd6be0.png",
     "static/media/lianna-hall.jpeg": "/static/media/lianna-hall.d76955fc38bc1e697abc.jpeg",
+    "static/media/tegheri-vanq.jpg": "/static/media/tegheri-vanq.de4e61152ccd1be6d1b1.jpg",
     "static/media/num2.png": "/static/media/num2.68e9fcc24bf68ed301bd.png",
-    "static/media/tegheri-vanq.jpg": "/static/media/tegheri-vanq.026ace95416d7cb7d9b6.jpg",
     "static/media/num3.png": "/static/media/num3.a694723cabca5edb494a.png",
     "static/media/num1.png": "/static/media/num1.2a3273b78552caa95c92.png",
     "index.html": "/index.html",
     "main.05880e57.css.map": "/static/css/main.05880e57.css.map",
-    "main.248e8da5.js.map": "/static/js/main.248e8da5.js.map"
+    "main.a231cb6c.js.map": "/static/js/main.a231cb6c.js.map"
   },
   "entrypoints": [
     "static/css/main.05880e57.css",
-    "static/js/main.248e8da5.js"
+    "static/js/main.a231cb6c.js"
   ]
 }

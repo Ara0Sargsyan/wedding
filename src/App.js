@@ -48,7 +48,7 @@ function App() {
   return (
     <div>
       <div className="main-photo">
-        <img src={mainPhoto} alt="" />
+        <img loading="lazy" src={mainPhoto} alt="loading" />
       </div>
       <div className="container">
         <div className="Foreword-date">
@@ -103,11 +103,14 @@ function App() {
                 <a href="https://yandex.com/maps/org/tegher_monastery/204381722709/?ll=44.237644%2C40.334148&z=14">
                   Ինչպես հասնել
                 </a>
+                <br />
+                <br />
+                <hr />
               </div>
               <div className="hall">
                 <div className="name">Lianna Hall</div>
                 <img src={hallPhoto} alt="hall" />
-                <a href="https://yandex.com/maps/org/lianna_garden_hall/75872747374/?ll=44.391408%2C40.164666&mode=search&sctx=ZAAAAAgBEAAaKAoSCZoLXB5rHkZAEQwDllzFKkRAEhIJDJQUWABTtj8RfjmzXaEPpj8iBgABAgMEBSgKOABAvboGSAFqAnJ1nQHNzMw9oAEAqAEAvQGK1UW5wgEG1bDmsPkFggId0JzQvtC90LDRgdGC0YvRgNGMINCi0LXQs9C10YCKAgCSAgCaAgxkZXNrdG9wLW1hcHM%3D&sll=44.391408%2C40.164666&sspn=0.013144%2C0.006511&text=%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%D0%A2%D0%B5%D0%B3%D0%B5%D1%80&z=16.73">
+                <a href="https://yandex.com/maps/org/75872747374/?ll=44.391408%2C40.164666&z=16.73">
                   Ինչպես հասնել
                 </a>
               </div>
