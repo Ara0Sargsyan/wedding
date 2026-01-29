@@ -1,9 +1,9 @@
-mobile web aplication 
+Mobile web aplication 
 https://sparkling-alfajores-52e3fe.netlify.app/
 
-<img  height="600" alt="new" src="https://github.com/user-attachments/assets/cbc23b9f-e42e-4330-be88-c783cdb1cad4" />
-<img  height="600" alt="new1" src="https://github.com/user-attachments/assets/6e10be67-84cf-421c-8f61-2466690e3f8f" />
-<img  height="600" alt="new2" src="https://github.com/user-attachments/assets/77eecac4-c736-40ba-919a-ff28523c6923" />
+<img  height="300" alt="new" src="https://github.com/user-attachments/assets/cbc23b9f-e42e-4330-be88-c783cdb1cad4" />
+<img  height="300" alt="new1" src="https://github.com/user-attachments/assets/6e10be67-84cf-421c-8f61-2466690e3f8f" />
+<img  height="300" alt="new2" src="https://github.com/user-attachments/assets/77eecac4-c736-40ba-919a-ff28523c6923" />
 
 
 ✨ Features
